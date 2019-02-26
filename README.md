@@ -1,29 +1,10 @@
-# my-project
+#二手车Vue项目
+## 这个项目包含了筛选器, 弹出层,抽屉,图片本地预览,自定义拖拽,登陆等功能
 
-## Project setup
-```
-npm install
-```
+--------------------------------------------
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+*界面整洁
+*基本功能完善
+*用户易上手
+*组件人性化
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
